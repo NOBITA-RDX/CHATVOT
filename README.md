@@ -15,19 +15,19 @@ Click Below Picture To Open VChat Bot Owner Id...
 ## Deploy
 🌷 You can Deploy Easily Fork repo and Give Start 🌷
 
-## 🥀 Bot Deploy On Workflow / (KAALI LINUX)
+## 🥀 Bot Deploy On Workflow / (ʀᴅx ᴋɪɴɢ)
  At 1st Import This Repo Then Input All Value In Bikash.py || Then Proceed Kaali Linux Value Or Ect.
 
-## 🥀 Kaali Linux Tutorial
+## 🥀 ʀᴅx ᴋɪɴɢ Tutorial
 
-[Kaali Linux](https://youtu.be/_nZT5lhcL8U)
+[Kaali Linux](https://www.youtube.com/channel/UCoOmopJ8YVYz9Lm8iHhNYMw)
 
-## 🥀 Chat Bot Deploy Tutorial On Kaali Linux 
+## 🥀 Chat Bot Deploy Tutorial On ʀᴅx ᴋɪɴɢ 
 
-[Kaali Linux](https://youtu.be/fFRxAG1mCVU)
+[Kaali Linux](https://www.youtube.com/channel/UCoOmopJ8YVYz9Lm8iHhNYMw)
 
 ## ⚒️ 𝐂𝐫𝐞𝐝𝐢𝐭
-[𝐁𝐢𝐤𝐚𝐬𝐡](https://t.me/BikashHalder)
+[『♕︎𓆩𝗥𝗗𝗫𓆪𝗥⟁𝗝™♕︎』](tg://user?id=1777270311)
 
 ## Telegram 🏪
 
@@ -46,11 +46,11 @@ Click Below Picture To Open VChat Bot Owner Id...
 [![Bikash Halder](https://te.legra.ph/file/840fed0100164af249bb8.jpg)](https://t.me/BikashHalder)
 
 
-#### Main Developer = [Bikash](https://t.me/BikashHalder)
+#### Main Developer = [『♕︎𓆩𝗥𝗗𝗫𓆪𝗥⟁𝗝™♕︎』](tg://user?id=1777270311)
 
 ## 💕 Special Thanks
 
-✅ Aditya Halder Thanks For Fixed All Error Or Lovely Support 💕
+✅ ʀᴅx ʀᴀᴊ Thanks For Fixed All Error Or Lovely Support 💕
 
 
-## 🥀 Powered By [BikashHalder](https://t.me/Bikashhalder) & [AdityaHalder](https://t.me/Adityahalder)
+## 🥀 Powered By [ʀᴅx ᴋɪɴɢ](tg://user?id=1777270311) & [『♕︎𓆩𝗥𝗗𝗫𓆪𝗥⟁𝗝™♕︎』](tg://user?id=1777270311)

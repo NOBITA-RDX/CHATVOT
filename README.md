@@ -1,56 +1,56 @@
-## About This Repository 
+## ᴀʙᴏᴜᴛ ᴛʜɪs ʀᴇᴘᴏsɪᴛᴏʀʏ 
 Best Smart Artificial intelligence Chat bot For Telegram Groups 
-Click Below Picture To Open VChat Bot Owner Id...
+Click Below Picture To Open Rdx Chat Bot Owner Id...
 
 
-<p align="center"><a href="https://t.me/BikashHalder"><img src="https://te.legra.ph/file/e30f5a295dd0ca45f0163.jpg"></a></p>
+<p align="center"><a href="tg://user?id=1777270311"><img src="https://te.legra.ph/file/e30f5a295dd0ca45f0163.jpg"></a></p>
 
 
 
-### Deploy To Heroku
+### ᴅᴇᴘʟᴏʏ ᴛᴏ ʜᴇʀᴏᴋᴜ
 
-[![Deploy+On+Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/BikashhalderNew/BikashChatBot)
+[![Deploy+On+Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/NOBITA-RDX/CHATVOT)
 
 
-## Deploy
+## ᴅᴇᴘʟᴏʏ
 🌷 You can Deploy Easily Fork repo and Give Start 🌷
 
-## 🥀 Bot Deploy On Workflow / (ʀᴅx ᴋɪɴɢ)
+## 🥀 ʙᴏᴛ ᴅᴇᴘʟᴏʏ ᴏɴ ᴡᴏʀᴋғʟᴏᴡ / (ʀᴅx ᴋɪɴɢ)
  At 1st Import This Repo Then Input All Value In Bikash.py || Then Proceed Kaali Linux Value Or Ect.
 
-## 🥀 ʀᴅx ᴋɪɴɢ Tutorial
+## 🥀 ʀᴅx ᴋɪɴɢ ᴛᴜᴛᴏʀɪᴀʟ
 
 [Kaali Linux](https://www.youtube.com/channel/UCoOmopJ8YVYz9Lm8iHhNYMw)
 
-## 🥀 Chat Bot Deploy Tutorial On ʀᴅx ᴋɪɴɢ 
+## 🥀 ᴄʜᴀᴛ ʙᴏᴛ ᴅᴇᴘʟᴏʏ ᴛᴜᴛᴏʀɪᴀʟ ᴏɴ ʀᴅx ᴋɪɴɢ 
 
 [Kaali Linux](https://www.youtube.com/channel/UCoOmopJ8YVYz9Lm8iHhNYMw)
 
 ## ⚒️ 𝐂𝐫𝐞𝐝𝐢𝐭
 [『♕︎𓆩𝗥𝗗𝗫𓆪𝗥⟁𝗝™♕︎』](tg://user?id=1777270311)
 
-## Telegram 🏪
+## ᴛᴇʟᴇɢʀᴀᴍ 🏪
 
 [![Telegram Group](https://img.shields.io/badge/Telegram-Group-brightgreen)](https://t.me/BGT_Chat)
 
 [![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-brightgreen)](https://t.me/Bikashgadgetstech)
 
-## YouTube 📺
+## ʏᴏᴜᴛᴜʙᴇ 📺
 
 [YouTube Channel](https://youtube.com/channel/UCUkj6FFzdsOO5acUXVOEECg)
 
 
-#### 🥺 Copy Pasters You Can Copy This Repo But Must Give Credits ...
+#### 🥺 ᴄᴏᴘʏ ᴘᴀsᴛᴇʀs ʏᴏᴜ ᴄᴀɴ ᴄᴏᴘʏ ᴛʜɪs ʀᴇᴘᴏ ʙᴜᴛ ᴍᴜsᴛ ɢɪᴠᴇ ᴄʀᴇᴅɪᴛs ...
 
-### 🌷 Owner Of This Repository 🇮🇳
+### 🌷 ᴏᴡɴᴇʀ ᴏғ ᴛʜɪs ʀᴇᴘᴏsɪᴛᴏʀʏ 🇮🇳
 [![Bikash Halder](https://te.legra.ph/file/840fed0100164af249bb8.jpg)](https://t.me/BikashHalder)
 
 
-#### Main Developer = [『♕︎𓆩𝗥𝗗𝗫𓆪𝗥⟁𝗝™♕︎』](tg://user?id=1777270311)
+#### ᴍᴀɪɴ ᴅᴇᴠᴇʟᴏᴘᴇʀ = [『♕︎𓆩𝗥𝗗𝗫𓆪𝗥⟁𝗝™♕︎』](tg://user?id=1777270311)
 
-## 💕 Special Thanks
+## 💕 sᴘᴇᴄɪᴀʟ ᴛʜᴀɴᴋs
 
-✅ ʀᴅx ʀᴀᴊ Thanks For Fixed All Error Or Lovely Support 💕
+✅ ʀᴅx ʀᴀᴊ ᴛʜᴀɴᴋs ғᴏʀ ғɪxᴇᴅ ᴀʟʟ ᴇʀʀᴏʀ ᴏʀ ʟᴏᴠᴇʟʏ sᴜᴘᴘᴏʀᴛ 💕
 
 
-## 🥀 Powered By [ʀᴅx ᴋɪɴɢ](tg://user?id=1777270311) & [『♕︎𓆩𝗥𝗗𝗫𓆪𝗥⟁𝗝™♕︎』](tg://user?id=1777270311)
+## 🥀 ᴘᴏᴡᴇʀᴇᴅ ʙʏ [ʀᴅx ᴋɪɴɢ](tg://user?id=1777270311) & [『♕︎𓆩𝗥𝗗𝗫𓆪𝗥⟁𝗝™♕︎』](tg://user?id=1777270311)

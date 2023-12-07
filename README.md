@@ -20,14 +20,14 @@ Click Below Picture To Open Rdx Chat Bot Owner Id...
 
 ## 🥀 ʀᴅx ᴋɪɴɢ ᴛᴜᴛᴏʀɪᴀʟ
 
-[Kaali Linux](https://www.youtube.com/channel/UCoOmopJ8YVYz9Lm8iHhNYMw)
+[ʀᴅx ʀᴀᴊ](https://www.youtube.com/channel/UCoOmopJ8YVYz9Lm8iHhNYMw)
 
 ## 🥀 ᴄʜᴀᴛ ʙᴏᴛ ᴅᴇᴘʟᴏʏ ᴛᴜᴛᴏʀɪᴀʟ ᴏɴ ʀᴅx ᴋɪɴɢ 
 
-[Kaali Linux](https://www.youtube.com/channel/UCoOmopJ8YVYz9Lm8iHhNYMw)
+[ʀᴅx ʀᴀᴊ](https://www.youtube.com/channel/UCoOmopJ8YVYz9Lm8iHhNYMw)
 
 ## ⚒️ 𝐂𝐫𝐞𝐝𝐢𝐭
-[『♕︎𓆩𝗥𝗗𝗫𓆪𝗥⟁𝗝™♕︎』](tg://user?id=1777270311)
+[『♕︎𓆩𝗥𝗗𝗫𓆪𝗥⟁𝗝™♕︎』](https://t.me/rj29rdx)
 
 ## ᴛᴇʟᴇɢʀᴀᴍ 🏪
 
@@ -43,7 +43,7 @@ Click Below Picture To Open Rdx Chat Bot Owner Id...
 #### 🥺 ᴄᴏᴘʏ ᴘᴀsᴛᴇʀs ʏᴏᴜ ᴄᴀɴ ᴄᴏᴘʏ ᴛʜɪs ʀᴇᴘᴏ ʙᴜᴛ ᴍᴜsᴛ ɢɪᴠᴇ ᴄʀᴇᴅɪᴛs ...
 
 ### 🌷 ᴏᴡɴᴇʀ ᴏғ ᴛʜɪs ʀᴇᴘᴏsɪᴛᴏʀʏ 🇮🇳
-[![Bikash Halder]()](tg://user?id=1777270311)
+[![ʀ](https://t.me/rj29rdx))
 
 
 #### ᴍᴀɪɴ ᴅᴇᴠᴇʟᴏᴘᴇʀ = [『♕︎𓆩𝗥𝗗𝗫𓆪𝗥⟁𝗝™♕︎』](tg://user?id=1777270311)

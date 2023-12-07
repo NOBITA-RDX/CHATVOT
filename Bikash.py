@@ -39,7 +39,7 @@ async def is_admins(chat_id: int):
 async def start_(client: Client, message: Message):
     await message.reply_photo(
         photo=f"{BOT_IMAGE}",
-        caption=f"""**━━━━━━━━━━━━━━━━━━━━━━━ʜʏ  ɪ'ᴀᴍ ᴀ ᴀᴅᴠᴀɴᴄᴇ ᴄʜᴀᴛ ʙᴏᴛ.\n\n ᴍʏ ɴᴀᴍᴇ ɪs {BOT_NAME} ϲђᴀᴛ ʙᴏᴛ ғʀᴏᴍ ɪɴᴅɪᴀ 🇮🇳 \n\n ɪ'ᴍ ᴀ ᴀʀᴛɪғɪᴄɪᴀʟ ɪɴᴛᴇʟʟɪɢᴇɴᴄᴇ \n\n /chatbot - [ᴏɴ|ᴏғғ] ᴛʜɪs ᴄᴏᴍᴍᴀɴᴅ ᴜsᴇ ᴏɴʟʏ ᴀɴʏ ɢʀᴏᴜᴘ
+        caption=f"""**━━━━━━━━━━━━━━━━━━━━━━━ʜʏ  ɪ'ᴀᴍ ᴀ ᴀᴅᴠᴀɴᴄᴇ ᴄʜᴀᴛ ʙᴏᴛ.\n\n ᴍʏ ɴᴀᴍᴇ ɪs ϲђᴀᴛ ʙᴏᴛ ғʀᴏᴍ ɪɴᴅɪᴀ 🇮🇳 \n\n ɪ'ᴍ ᴀ ᴀʀᴛɪғɪᴄɪᴀʟ ɪɴᴛᴇʟʟɪɢᴇɴᴄᴇ \n\n /chatbot - [ᴏɴ|ᴏғғ] ᴛʜɪs ᴄᴏᴍᴍᴀɴᴅ ᴜsᴇ ᴏɴʟʏ ᴀɴʏ ɢʀᴏᴜᴘ
 
 ┏━━━━━━━━━━━━━━━━━┓
 ┣❥︎ ♕︎𝐎ᴡɴᴇʀ♕︎   » [𝐂ʟɪᴄᴋ 𝐇ᴇʀᴇ](tg://user?id=1777270311)
@@ -67,7 +67,7 @@ async def start_(client: Client, message: Message):
 async def start(client: Client, message: Message):
     await message.reply_photo(
         photo=f"{BOT_IMAGE}",
-        caption=f"""ʜʏ  ɪ'ᴀᴍ ᴀ ᴀᴅᴠᴀɴᴄᴇ ᴄʜᴀᴛ ʙᴏᴛ.\n\n ᴍʏ ɴᴀᴍᴇ ɪs {BOT_NAME} ϲђᴀᴛ ʙᴏᴛ ғʀᴏᴍ ɪɴᴅɪᴀ 🇮🇳 \n\n ɪ'ᴍ ᴀ ᴀʀᴛɪғɪᴄɪᴀʟ ɪɴᴛᴇʟʟɪɢᴇɴᴄᴇ \n\nᴀɴʏ ᴘʀᴏʙʟᴇᴍ ᴛᴏ [ʀᴇᴘᴏʀᴛ](https://t.me/+MQn7rXz1LeViZmJl)  🥀\n\n[ᴜᴘᴅᴀᴛᴇs](https://t.me/+MQn7rXz1LeViZmJl) \n\n /chatbot - [on|off]""",
+        caption=f"""ʜʏ  ɪ'ᴀᴍ ᴀ ᴀᴅᴠᴀɴᴄᴇ ᴄʜᴀᴛ ʙᴏᴛ.\n\n ᴍʏ ɴᴀᴍᴇ ɪs ϲђᴀᴛ ʙᴏᴛ ғʀᴏᴍ ɪɴᴅɪᴀ 🇮🇳 \n\n ɪ'ᴍ ᴀ ᴀʀᴛɪғɪᴄɪᴀʟ ɪɴᴛᴇʟʟɪɢᴇɴᴄᴇ \n\nᴀɴʏ ᴘʀᴏʙʟᴇᴍ ᴛᴏ [ʀᴇᴘᴏʀᴛ](https://t.me/+MQn7rXz1LeViZmJl)  🥀\n\n[ᴜᴘᴅᴀᴛᴇs](https://t.me/+MQn7rXz1LeViZmJl) \n\n /chatbot - [on|off]""",
         reply_markup=InlineKeyboardMarkup(
             [
                 [

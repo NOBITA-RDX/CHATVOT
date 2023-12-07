@@ -3,7 +3,7 @@ Best Smart Artificial intelligence Chat bot For Telegram Groups
 Click Below Picture To Open Rdx Chat Bot Owner Id...
 
 
-<p align="center"><a href="tg://user?id=1777270311"><img src="https://te.legra.ph/file/e30f5a295dd0ca45f0163.jpg"></a></p>
+<p align="center"><a href="tg://user?id=1777270311"><img src=""></a></p>
 
 
 
@@ -43,7 +43,7 @@ Click Below Picture To Open Rdx Chat Bot Owner Id...
 #### 🥺 ᴄᴏᴘʏ ᴘᴀsᴛᴇʀs ʏᴏᴜ ᴄᴀɴ ᴄᴏᴘʏ ᴛʜɪs ʀᴇᴘᴏ ʙᴜᴛ ᴍᴜsᴛ ɢɪᴠᴇ ᴄʀᴇᴅɪᴛs ...
 
 ### 🌷 ᴏᴡɴᴇʀ ᴏғ ᴛʜɪs ʀᴇᴘᴏsɪᴛᴏʀʏ 🇮🇳
-[![Bikash Halder](https://te.legra.ph/file/840fed0100164af249bb8.jpg)](https://t.me/BikashHalder)
+[![Bikash Halder]()](tg://user?id=1777270311)
 
 
 #### ᴍᴀɪɴ ᴅᴇᴠᴇʟᴏᴘᴇʀ = [『♕︎𓆩𝗥𝗗𝗫𓆪𝗥⟁𝗝™♕︎』](tg://user?id=1777270311)

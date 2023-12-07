@@ -98,9 +98,9 @@ async def chatbotofd(client, message):
     is_v = v.find_one({"chat_id": message.chat.id})
     if not is_v:
         v.insert_one({"chat_id": message.chat.id})
-        await message.reply_text(f" ʀᴅx ᴄʜᴀᴛʙᴏᴛ ᴅɪsᴀʙʟᴇᴅ 🥀!\n\nᴀɴʏ ᴘʀᴏʙʟᴇᴍ ᴛᴏ [ʀᴇᴘᴏʀᴛ](https://t.me/+PtOLQT04ocMzOTJl)  🥀\n\n[ᴜᴘᴅᴀᴛᴇs](https://t.me/+MQn7rXz1LeViZmJl) ")
+        await message.reply_text(f"ʀᴅx ᴄʜᴀᴛʙᴏᴛ ᴅɪsᴀʙʟᴇᴅ 🥀!\n\nᴀɴʏ ᴘʀᴏʙʟᴇᴍ ᴛᴏ [ʀᴇᴘᴏʀᴛ](https://t.me/+PtOLQT04ocMzOTJl) 🥀\n\n[ᴜᴘᴅᴀᴛᴇs](https://t.me/+MQn7rXz1LeViZmJl)")
     if is_v:
-        await message.reply_text(f"ʀᴅx ᴄʜᴀᴛʙᴏᴛ ɪs ᴀʟʟʀᴇᴀᴅʏ ᴅɪsᴀʙʟᴇᴅ 🥀!\n\nᴀɴʏ ᴘʀᴏʙʟᴇᴍ ᴛᴏ [ʀᴇᴘᴏʀᴛ](https://t.me/+PtOLQT04ocMzOTJl})  🥀\n\n[ᴜᴘᴅᴀᴛᴇs](https://t.me/+MQn7rXz1LeViZmJl) ")
+        await message.reply_text(f"ʀᴅx ᴄʜᴀᴛʙᴏᴛ ɪs ᴀʟʟʀᴇᴀᴅʏ ᴅɪsᴀʙʟᴇᴅ 🥀!\n\nᴀɴʏ ᴘʀᴏʙʟᴇᴍ ᴛᴏ [ʀᴇᴘᴏʀᴛ](https://t.me/+PtOLQT04ocMzOTJl) 🥀\n\n[ᴜᴘᴅᴀᴛᴇs](https://t.me/+MQn7rXz1LeViZmJl)")
     
 
 @bot.on_message(
@@ -120,10 +120,10 @@ async def chatboton(client, message):
             )
     is_v = v.find_one({"chat_id": message.chat.id})
     if not is_v:           
-        await message.reply_text(f"ʀᴅx ᴄʜᴀᴛʙᴏᴛ ᴅɪsᴀʙʟᴇᴅ 🥀!\n\nᴀɴʏ ᴘʀᴏʙʟᴇᴍ ᴛᴏ [ʀᴇᴘᴏʀᴛ](https://t.me/+PtOLQT04ocMzOTJl)  🥀\n\n[ᴜᴘᴅᴀᴛᴇs](https://t.me/+MQn7rXz1LeViZmJl)")
+        await message.reply_text(f"ʀᴅx ᴄʜᴀᴛʙᴏᴛ ᴇɴᴀʙʟᴇ 🥀!\n\nᴀɴʏ ᴘʀᴏʙʟᴇᴍ ᴛᴏ [ʀᴇᴘᴏʀᴛ](https://t.me/+PtOLQT04ocMzOTJl) 🥀\n\n[ᴜᴘᴅᴀᴛᴇs](https://t.me/+MQn7rXz1LeViZmJl)")
     if is_v:
         v.delete_one({"chat_id": message.chat.id})
-        await message.reply_text(f"ʀᴅx ᴄʜᴀᴛʙᴏᴛ ɪs ᴀʟʟʀᴇᴀᴅʏ ᴅɪsᴀʙʟᴇᴅ 🥀!\n\nᴀɴʏ ᴘʀᴏʙʟᴇᴍ ᴛᴏ [ʀᴇᴘᴏʀᴛ](https://t.me/+PtOLQT04ocMzOTJl})  🥀\n\n[ᴜᴘᴅᴀᴛᴇs](https://t.me/+MQn7rXz1LeViZmJl) ")
+        await message.reply_text(f"ʀᴅx ᴄʜᴀᴛʙᴏᴛ ɪs ᴀʟʟʀᴇᴀᴅʏ ᴇɴᴀʙʟᴇ 🥀!\n\nᴀɴʏ ᴘʀᴏʙʟᴇᴍ ᴛᴏ [ʀᴇᴘᴏʀᴛ](https://t.me/+PtOLQT04ocMzOTJl) 🥀\n\n[ᴜᴘᴅᴀᴛᴇs](https://t.me/+MQn7rXz1LeViZmJl) ")
     
 
 @bot.on_message(

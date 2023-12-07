@@ -39,13 +39,13 @@ async def is_admins(chat_id: int):
 async def start_(client: Client, message: Message):
     await message.reply_photo(
         photo=f"{BOT_IMAGE}",
-        caption=f"""**━━━━━━━━━━━━━━━━━━━━━━━ ʜʏ  ɪ'ᴀᴍ ᴀ ᴀᴅᴠᴀɴᴄᴇ ᴄʜᴀᴛ ʙᴏᴛ.\n\n ᴍʏ ɴᴀᴍᴇ ɪs ϲђᴀᴛ ʙᴏᴛ ғʀᴏᴍ ɪɴᴅɪᴀ 🇮🇳 \n\n ɪ'ᴍ ᴀ ᴀʀᴛɪғɪᴄɪᴀʟ ɪɴᴛᴇʟʟɪɢᴇɴᴄᴇ \n\n /chatbot - [ᴏɴ|ᴏғғ] ᴛʜɪs ᴄᴏᴍᴍᴀɴᴅ ᴜsᴇ ᴏɴʟʏ ᴀɴʏ ɢʀᴏᴜᴘ
+        caption=f"""**━━━━━━━━━━━━━━━━━━━━━━━ ʜʏ  ɪ'ᴀᴍ ᴀ ᴀᴅᴠᴀɴᴄᴇ ᴄʜᴀᴛ ʙᴏᴛ.\n\n ғʀᴏᴍ ʏᴏᴜʀ ʜᴇᴀʀᴛ \n\n ɪ'ᴍ ᴀ ᴀʀᴛɪғɪᴄɪᴀʟ ɪɴᴛᴇʟʟɪɢᴇɴᴄᴇ \n\n /ᴄʜᴀᴛʙᴏᴛ - [ᴏɴ|ᴏғғ] ᴛʜɪs ᴄᴏᴍᴍᴀɴᴅ ᴜsᴇ ᴏɴʟʏ ᴀɴʏ ɢʀᴏᴜᴘ
 
 ┏━━━━━━━━━━━━━━━━━┓
-┣❥︎ ♕︎𝐎ᴡɴᴇʀ♕︎   » [𝐂ʟɪᴄᴋ 𝐇ᴇʀᴇ](tg://user?id=1777270311)
-┣❥︎ 𝐔ᴘᴅᴀᴛᴇs ➪ » [𝐂ʟɪᴄᴋ 𝐇ᴇʀᴇ](https://t.me/+MQn7rXz1LeViZmJl)
-┣❥︎ 𝐒ᴜᴘᴘᴏʀᴛ ➪ » [𝐂ʟɪᴄᴋ 𝐇ᴇʀᴇ](https://t.me/+PtOLQT04ocMzOTJl)
-┣❥︎ 𝐂ʀᴇᴀᴛᴏʀ ➪ » [『♕︎𓆩𝗥𝗗𝗫𓆪𝗥⟁𝗝™♕︎』](tg://user?id=1777270311)
+┣❥︎ ♕︎ᴏᴡɴᴇʀ♕︎   » [ᴄʟɪᴄᴋ ʜᴇʀᴇ](tg://user?id=1777270311)
+┣❥︎ ᴜᴘᴅᴀᴛᴇs ➪ » [ᴄʟɪᴄᴋ ʜᴇʀᴇ](https://t.me/+MQn7rXz1LeViZmJl)
+┣❥︎ sᴜᴘᴘᴏʀᴛ ➪ » [ᴄʟɪᴄᴋ ʜᴇʀᴇ](https://t.me/+PtOLQT04ocMzOTJl)
+┣❥︎ ᴄʀᴇᴀᴛᴏʀ ➪ » [♕︎𓆩𝗥𝗗𝗫𓆪♕︎](tg://user?id=1777270311)
 ┗━━━━━━━━━━━━━━━━━┛
 
  ᴊᴜsᴛ ᴀᴅᴅ ᴍᴇ » ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴀɴᴅ
@@ -67,7 +67,7 @@ async def start_(client: Client, message: Message):
 async def start(client: Client, message: Message):
     await message.reply_photo(
         photo=f"{BOT_IMAGE}",
-        caption=f"""ʜʏ  ɪ'ᴀᴍ ᴀ ᴀᴅᴠᴀɴᴄᴇ ᴄʜᴀᴛ ʙᴏᴛ.\n\n ᴍʏ ɴᴀᴍᴇ ɪs ϲђᴀᴛ ʙᴏᴛ ғʀᴏᴍ ɪɴᴅɪᴀ 🇮🇳 \n\n ɪ'ᴍ ᴀ ᴀʀᴛɪғɪᴄɪᴀʟ ɪɴᴛᴇʟʟɪɢᴇɴᴄᴇ \n\nᴀɴʏ ᴘʀᴏʙʟᴇᴍ ᴛᴏ [ʀᴇᴘᴏʀᴛ](https://t.me/+MQn7rXz1LeViZmJl)  🥀\n\n[ᴜᴘᴅᴀᴛᴇs](https://t.me/+MQn7rXz1LeViZmJl) \n\n /chatbot - [on|off]""",
+        caption=f"""ʜʏ  ɪ'ᴀᴍ ᴀ ᴀᴅᴠᴀɴᴄᴇ ᴄʜᴀᴛ ʙᴏᴛ.\n\n ғᴇᴏᴍ ʏᴏᴜʀ ʜᴇᴀʀᴛ \n\n ɪ'ᴍ ᴀ ᴀʀᴛɪғɪᴄɪᴀʟ ɪɴᴛᴇʟʟɪɢᴇɴᴄᴇ \n\nᴀɴʏ ᴘʀᴏʙʟᴇᴍ ᴛᴏ [ʀᴇᴘᴏʀᴛ](https://t.me/+MQn7rXz1LeViZmJl)  🥀\n\n[ᴜᴘᴅᴀᴛᴇs](https://t.me/+MQn7rXz1LeViZmJl) \n\n /chatbot - [on|off]""",
         reply_markup=InlineKeyboardMarkup(
             [
                 [
@@ -104,7 +104,7 @@ async def chatbotofd(client, message):
     
 
 @bot.on_message(
-    filters.command("chatbot on", prefixes=["/", ".", "?", "-"])
+    filters.command("chatbot on", prefixes=["/", ".", "?", "-", "RDX"])
     & ~filters.private)
 async def chatboton(client, message):
     vdb = MongoClient(MONGO_URL)    

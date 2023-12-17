@@ -54,7 +54,7 @@ async def start_(client: Client, message: Message):
     reply_markup=InlineKeyboardMarkup(
             [
                 [
-                                InlineKeyboardButton(text="˹ƒ๏ꝛ ʏ๏ᴜ˼", callback_data="settings_back_helper"
+                                InlineKeyboardButton(text="˹ƒ๏ꝛ sᴛᴜᴅᴇɴᴛs˼", url=https://t.me/+A8Dk4aNJet44ZDA1"
             ),
         ],
         [
@@ -64,14 +64,14 @@ async def start_(client: Client, message: Message):
             InlineKeyboardButton(
                 text="˹sᴜᴩᴩ๏ʀᴛ˼", 
                 url="https://t.me/+MQn7rXz1LeViZmJl"),],[
-            InlineKeyboardButton(text="˹ᴀᴅᴅ ᴍє ʙᴀʙʏ˼", url=f"https://t.me/{app.username}?startgroup=true"),],
+            InlineKeyboardButton(text="˹ᴀᴅᴅ ᴍє ʙᴀʙʏ˼", url="https://t.me/{BOT_USERNAME}?startgroup=true"),],
         [
             InlineKeyboardButton(text="˹๏ᴡɴєʀ˼", user_id="1777270311"),
             InlineKeyboardButton(text="˹s๏ᴜʀᴄє˼", url="https://t.me/+m4oVCt2zFhYyMTdl"),
         ],
         [
             InlineKeyboardButton(text="◃◃", url="https://t.me/+okCO84m2hZxjYTE9"),
-            InlineKeyboardButton(text="ʏᴛ", url="https://www.youtube.com/channel/UCoOmopJ8YVYz9Lm8iHhNYMw"),
+            InlineKeyboardButton(text="ꝛᴅꭙ ʏᴛ", url="https://www.youtube.com/channel/UCoOmopJ8YVYz9Lm8iHhNYMw"),
             InlineKeyboardButton(text="▹▹", url="https://t.me/+pAWm7GPhFYliOGI1"),
         ],
             ]

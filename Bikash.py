@@ -56,27 +56,7 @@ async def start_(client: Client, message: Message):
                 [
                                 InlineKeyboardButton(text="˹ƒ๏ꝛ sᴛᴜᴅᴇɴᴛs˼", url="https://t.me/+A8Dk4aNJet44ZDA1"
             ),
-        ],
-        [
-            InlineKeyboardButton(
-                text="˹sᴜᴘᴘ๏ʀᴛ˼",
-                url="https://t.me/+PtOLQT04ocMzOTJl"),
-            InlineKeyboardButton(
-                text="˹sᴜᴩᴩ๏ʀᴛ˼", 
-                url="https://t.me/+muWyzsc4W9JjNDJl"),],[
-            InlineKeyboardButton(text="˹ᴀᴅᴅ ᴍє ʙᴀʙʏ˼", url="https://t.me/{BOT_USERNAME}?startgroup=true"),],
-        [
-            InlineKeyboardButton(text="˹๏ᴡɴєʀ˼", user_id="1777270311"),
-            InlineKeyboardButton(text="˹s๏ᴜʀᴄє˼", url="https://t.me/+m4oVCt2zFhYyMTdl"),
-        ],
-        [
-            InlineKeyboardButton(text="◃◃", url="https://t.me/+okCO84m2hZxjYTE9"),
-            InlineKeyboardButton(text="ꝛᴅꭙ ʏᴛ", url="https://www.youtube.com/channel/UCoOmopJ8YVYz9Lm8iHhNYMw"),
-            InlineKeyboardButton(text="▹▹", url="https://t.me/+pAWm7GPhFYliOGI1"),
-        ],
-            ]
-        ),
-    )
+                ]
     
     
 @bot.on_message(filters.command(["/start", f"start@{BOT_USERNAME}", "/alive", ".alive", "#rdx", "#rdxraj"]) & filters.group & ~filters.edited)
